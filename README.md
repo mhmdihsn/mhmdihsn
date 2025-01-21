@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25" />
 
-### I'm Muhammad Ilza Batistuta!  
-An undergraduate student at **Mercu Buana University** with a passion for technology and software development. 🚀
+### I'm Muhammad Ikhsanudin!  
+I am a computer science student at Mercu Buana University.
 
 ---
 
@@ -27,10 +27,10 @@ An undergraduate student at **Mercu Buana University** with a passion for techno
 
 ### 🤝 Connect with Me  
 <p>
-  <a href="https://www.linkedin.com/in/muhammad-ilza-batistuta-07a010347/">
+  <a href="https://www.linkedin.com/in/muhammad-ikhsan-539084252/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
-  <a href="mailto:m.ilzabatistuta@gmail.com">
+  <a href="mailto:mhmdihsn0724@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
