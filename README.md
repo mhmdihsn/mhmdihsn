@@ -16,9 +16,9 @@ I am a computer science student at Mercu Buana University.
 
 ### 📊 Github Statistics  
 <div align="center">
-  <a href="https://github.com/ilzabatistuta">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilzabatistuta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilzabatistuta&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+  <a href="https://github.com/mhmdihsn">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhmdihsn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhmdihsn&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
   </a>
 </div>
 
